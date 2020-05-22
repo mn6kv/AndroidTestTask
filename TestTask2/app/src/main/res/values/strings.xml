@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="welcome_text">Welcome to TestTask</string>
+    <string name="enter_button">Sign in</string>
+</resources>
